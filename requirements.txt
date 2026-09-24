@@ -1,0 +1,13 @@
+numpy
+scipy
+scikit-learn
+torch
+seaborn
+git
+ipykernel
+jupyter
+keras
+matplotlib
+pandas
+wandb
+xgboost
